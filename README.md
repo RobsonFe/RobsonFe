@@ -1,8 +1,9 @@
 ### Olá, Me chamo Robson Ferreira 👩‍💻
 
-- Eu sou estudante de Analise e Desenvolvimento de Sistemas, apaixonado por tecnologia desde a infância, e o meu primeiro contato com computadores foi o windows 98 do computador do meu irmão, desde então eu decidi que trabalhar com tecnologia é o que eu queria fazer da minha vida. 
+- Eu sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia desde a infância, e o meu primeiro contato com computadores foi o windows 98 do computador do meu irmão, desde então eu decidi que trabalhar com tecnologia é o que eu queria fazer da minha vida. 
 
-- Eu sou apaixonado por tecnologia desde criança, eu cresci com computadores, videos games, lendo e assistindo gêneros ficção cientifica, eu faço do uso da tecnologia o meu estilo de vida. 
+- Eu sou apaixonado por tecnologia desde criança, eu cresci com computadores, videos games, lendo e assistindo gêneros da ficção cientifica, eu faço do uso da tecnologia o meu estilo de vida. 
+
 ### Objetivo
 
 - O meu objetivo é trabalhar como desenvolvedor utilizando as principais tecnologias do mercado e levando as melhores soluções para as empresas. 
