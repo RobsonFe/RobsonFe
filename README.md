@@ -11,8 +11,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rob_ferreira88/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-ferreira-508247134/)
 
-![Robson Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonFe&show_icons=true&theme=transparent)
-
 ## Tecnologias que eu mais uso 
 
 <div style="display: inline_block"><br/>
