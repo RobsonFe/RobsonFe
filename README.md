@@ -2,13 +2,13 @@
 
 - Eu sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia desde a infância, e o meu primeiro contato com computadores foi o computador do meu irmão que tinha o Windows 98, desde então decidi que trabalhar com tecnologia é o que eu queria fazer da minha vida. 
 
-- Eu amo tecnologia desde criança, eu cresci com computadores, video games, lendo e assistindo gêneros de ficção cientifica, eu faço do uso da tecnologia o meu estilo de vida. 
+- Amo tecnologia desde criança, cresci com computadores, video games, lendo e assistindo gêneros de ficção cientifica, faço do uso da tecnologia o meu estilo de vida. 
 
 ### Objetivo
 
 - O meu objetivo profissional é trabalhar como desenvolvedor back-end, utilizando as principais tecnologias do mercado.
 - O meu objetivo acadêmico é estudar Engenharia de Software e obter o meu doutorado. 
-- O meu objetivo como pessoa é contribuir socialmente, passando o conhecimento adquirido para as futuras gerações.
+- O meu objetivo como pessoa é futuramente contribuir socialmente, passando o meu conhecimento adquirido para as futuras gerações.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rob_ferreira88/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-ferreira-508247134/)
 
