@@ -51,27 +51,20 @@ Banco de Dados:
 <img align="center" alt="mongodb" src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />    
 </div>
 <br>
-Bibliotecas:
-<br>
-<div style="display: inline_block">
-<br>
-<img align="center" alt="react" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="center" alt="bootstrap" src= "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="center" alt="" src= "" />
-</div>
-<br>
-Frameworks:
+Bibliotecas e Frameworks:
 <br>
 <div style="display: inline_block">
 <br>
 <img align="center" alt="Springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img align="center" alt="angular" src= "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-<img align="center" alt="hibernate" src= "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+<img align="center" alt="angular" src= "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />    
+<img align="center" alt="react" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="center" alt="hibernate" src= "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />    
+<img align="center" alt="bootstrap" src= "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="center" alt="apachemaven" src= "https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
 <img align="center" alt="apachetomcat" src= "https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
 <img align="center" alt="jquery" src= "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 <img align="center" alt="django" src= "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />  
-<img align="center" alt="swagger" src= "https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+<img align="center" alt="swagger" src= "https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />    
 </div>
 <br>
 Outras Ferramentas:
