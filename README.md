@@ -87,9 +87,6 @@ Hospedagem de Projetos:
 </div>
 <br>
 
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonFe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Entre em Contato
 
 📧 Email: robson-ferreiradasilva@hotmail.com
