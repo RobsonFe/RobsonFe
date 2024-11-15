@@ -2,9 +2,8 @@
 
 ### **Engenheiro de Software** 
 
-<hr>
-
 ## **Sobre Mim**
+
 
 Sou um Desenvolvedor de Sistemas apaixonado por tecnologia, sempre me preocupando com padrões de arquitetura para a melhor organização do código e escalabilidade, buscando as melhores soluções, utilizando código limpo e componentes reutilizáveis, além de sempre fazer testes unitários garantindo o correto funcionamento do sistema. 
 
@@ -15,8 +14,6 @@ Atualmente, estou atuando no desenvolvimento Full Stack com Python utilizando Dj
 Sou dedicado e sempre buscando o aprimoramento contínuo das minhas habilidades e procuro contribuir de forma significativa para os projetos em que me envolvo e compartilho meus conhecimentos assim como procuro aprender com a minha equipe.
 
 Em minha experiência profissional, sempre atuei com linguagens como Java, JavaScript, TypeScript e Python, mas estou aberto para novos desafios em outras linguagens, estou sempre buscando conhecimento e amadurecimento nas minhas competências e procurando sempre renovar o meu conhecimento.
-
-<hr>
 
 ## **Tecnologias**
 
