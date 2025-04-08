@@ -5,16 +5,17 @@
 ## **Sobre Mim**
 
 
-Sou um Desenvolvedor de Sistemas apaixonado por tecnologia, sempre me preocupando com padrões de arquitetura para a melhor organização do código e escalabilidade, buscando as melhores soluções, utilizando código limpo e componentes reutilizáveis, além de sempre fazer testes unitários garantindo o correto funcionamento do sistema. 
+Sou um Desenvolvedor de Sistemas apaixonado por tecnologia desde criança, estou sempre buscando as melhores soluções, me preocupando com padrões de arquitetura e desempenho do sistema para a melhor organização do código e escalabilidade, utilizando código limpo e componentes reutilizáveis, além de sempre fazer testes unitários garantindo o correto funcionamento do sistema. 
 
-A Minha trajetória profissional começou com Java usando frameworks como o Swing e posteriormente o Spring Boot, depois pude atuar em projetos utilizando o Angular em aplicações seguindo o formato tanto API Rest quanto Monolítico. Em seguida, atuei em projetos utilizando React e Node.js (NestJS), expandindo as minhas competências em desenvolvimento web me fazendo adquirir experiências e muito aprendizado.
+Atualmente, estou atuando como desenvolvedor Full Stack com Python utilizando Django Rest Framework no Back End e no Front End com NextJS, além do desenvolvimento de microsserviços no back-end com NestJS.
 
-Atualmente, estou atuando no desenvolvimento Full Stack com Python utilizando Django Rest Framework no Back End e no Front End com NextJS, além do desenvolvimento de microsserviços com NestJS e RPA com Node e Python. 
+A minha trajetória profissional começou atuando como desenvolvedor Java usando frameworks como o Swing onde desenvolvi os meus primeiros projetos e tive posteriormente a oportunidade de atuar em pequenos projetos com Spring Boot, foi onde amadureci aprendendo a realizar testes unitários, documentação de API com Swagger, banco de dados relacionais e não relacionais e fluxos de autenticação no Back-End.
 
-Sou dedicado e sempre buscando o aprimoramento contínuo das minhas habilidades e procuro contribuir de forma significativa para os projetos em que me envolvo e compartilho meus conhecimentos assim como procuro aprender com a minha equipe.
+Posteriormente comecei a aprender o desenvolvimento no front-end, comecei a estudar JavaScript e TypeScript, onde tive a oportunidade de atuar no desenvolvimento de interfaces web, desenvolvendo projetos de sites estáticos e amadurecendo no front-end, utilizando SPA com React e Angular em alguns projetos freelancers.
 
-Em minha experiência profissional, sempre atuei com linguagens como Java, JavaScript, TypeScript e Python, mas estou aberto para novos desafios em outras linguagens, estou sempre buscando conhecimento e amadurecimento nas minhas competências e procurando sempre renovar o meu conhecimento.
+Entre 2023 e 2024 atuei em alguns projetos desenvolvendo RPA em Python e Node.
 
+Sou dedicado e sempre buscando o aprimoramento contínuo das minhas habilidades e procuro contribuir significativamente para os projetos em que me envolvo e compartilho meus conhecimentos, assim como procuro aprender com a minha equipe. Estou aberto para novos desafios, estou sempre buscando conhecimento e amadurecimento nas minhas competências e procurando sempre renovar o meu conhecimento.
 ## **Tecnologias**
 
 Minhas habilidades técnicas incluem:
